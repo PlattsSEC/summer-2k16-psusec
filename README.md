@@ -16,3 +16,12 @@ Get some web dev experience. Doesn't matter what platform you're into (mobile,we
 ### Version control
 
 Get really good with using Git. I am planning on getting us started with contributing to open source projects next semester.
+
+
+### RESTful API
+
+Get familiar with using RESTful APIs. Let's face it, hackathons are API-fests and mostly RESTful API-fests. The following are a few good ones to get your feet wet (they have good documentation).
+
+ * Google Maps
+ * Twitter
+ * Facebook
