@@ -18,6 +18,7 @@ This is your road map to get a basic grounding in web development.
  * Asynchronous vs Synchronous
  * Blocking vs Non Blocking
  * Functions as first class objects
+ * Function definition vs Function declaration
  * Closures
  * Prototype chain
  * Global objects and scope
