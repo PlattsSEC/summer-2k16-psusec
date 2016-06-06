@@ -20,3 +20,5 @@ This is your road map to get a basic grounding in web development.
  * Functions as first class objects
  * Closures
  * Prototype chain
+ * Global objects and scope
+ * Hoisting
