@@ -25,3 +25,7 @@ Get familiar with using RESTful APIs. Let's face it, hackathons are API-fests an
  * Google Maps
  * Twitter
  * Facebook
+
+### IRC channels
+
+Join relevant IRC channels and learn from the conversations there.
