@@ -29,3 +29,7 @@ Get familiar with using RESTful APIs. Let's face it, hackathons are API-fests an
 ### IRC channels
 
 Join relevant IRC channels and learn from the conversations there.
+
+### Hackathons
+
+Attend hackathons which are close to you. Attend as many as you can! You will learn so much just from being and doing something there!! 
