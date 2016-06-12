@@ -33,3 +33,7 @@ Join relevant IRC channels and learn from the conversations there.
 ### Hackathons
 
 Attend hackathons which are close to you. Attend as many as you can! You will learn so much just from being and doing something there!! 
+
+### Poscasts
+
+Listen to some podacasts on programming topics or other topics similar to programming. There are some good podcasts on YouTube but you can choose whatever platform you want. Feel free to add other channels etc which do podcasts here.
